@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 # AutoMini V2
 
-- [![AUTOSTART](https://github.com/itzchav/AUTOSTART)](https://github.com/itzchav/AUTOSTART)
+
+- [![Controlado con Joystick](https://github.com/FilibertoMartinez/AutoMini_Joystick_)](https://github.com/FilibertoMartinez/AutoMini_Joystick_)
+
+- [![Vista de cámara ](https://github.com/FilibertoMartinez/AutoMini_Vista)](https://github.com/FilibertoMartinez/AutoMini_Vista)
